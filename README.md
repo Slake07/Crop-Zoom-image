@@ -1,4 +1,4 @@
-CropiZoomiImage
+Crop-Zoom-image
 ========
 
 Crop image with zoom and rotate funcationlity
